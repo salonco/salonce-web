@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Actual Behavior**
-A clear and concise description of what is actualu happening.
+A clear and concise description of what is actually happening.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
